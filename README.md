@@ -1,2 +1,2 @@
 # student-portal-demo
-Learning GitHub with DevOps
+A simple student portal demo application
